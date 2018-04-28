@@ -9,7 +9,7 @@
   - 线性回归 -Linear Regression
     - 最小二乘 Least Square
     - 岭回归 Ridge Regression
-    - LASSO (Least absolute shrinkage and selection operator)
+    - LASSO (Least absolute shrinkage and selection operator)
     
   - 逻辑回归-Logistic Regression
   
