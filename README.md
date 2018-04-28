@@ -25,3 +25,7 @@
 ### 目标
   1. 用python和numpy.array写一个CNN，能对猫和狗分类。
   2. 每人讲一篇关于CNN的paper。
+
+### 完成情况
+*
+*
